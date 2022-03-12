@@ -1,3 +1,4 @@
 # Step_Wheel
-Code to analyze mouse stepping pattern in Step-Wheel.  
-used in the paper "Hirokane et al, Emergence of chunk in mouse stepping ...., 2022 "
+Code of usend in the paper "Hirokane et al, Emergence of chunk in mouse stepping ...., 2022 ".
+Analyzing tthe stepping pattern of mice stepping in the lab-made step wheel machine.  
+
